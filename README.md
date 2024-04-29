@@ -1,7 +1,7 @@
 ### Front end
 
-| Repository | Description | License |
-| --- | --- | --- |
-| [NextJS boilerplate](https://github.com/YuriGii/rmrk-app-boilerplate-open) | 📜 Simple Next.js/Wagmi/Rainbowkit/ChakraUI boilerplate with basic rendering of RMRK NFTs| [MIT](https://github.com/APIs-guru/graphql-apis/blob/master/LICENSE) |
+| Repository | Description |
+| --- | --- |
+| [NextJS boilerplate](https://github.com/YuriGii/rmrk-app-boilerplate-open) | 📜 Simple Next.js/Wagmi/Rainbowkit/ChakraUI boilerplate with basic rendering of RMRK NFTs |
 
 **[⬆ Back to Index](#index)**
