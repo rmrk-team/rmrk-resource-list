@@ -11,7 +11,7 @@
 | --- | --- |
 | [RMRK contract collection](https://github.com/rmrk-team/evm) | 📜 A set of Solidity smart contracts implementing RMRK modular NFTs and compatible extensions |
 | [EVM template](https://github.com/rmrk-team/evm-template) | 📜 Template to start new project using RMRK implementation on EVM |
-| [Composable PFPs](https://github.com/rmrk-team/me-pfp-example) | 📜 EVM explample of ME Composable PFP collection https://singular.app/me |
+| [Composable PFPs](https://github.com/rmrk-team/me-pfp-example) | 📜 EVM example of ME Composable PFP collection https://singular.app/me |
 
 **[⬆ Back to top](#index)**
 
@@ -30,7 +30,7 @@
 | Repository | Description |
 | --- | --- |
 | [RMRK NFT renderer component](https://github.com/rmrk-team/rmrk-js/tree/main/packages/nft-renderer) | 📜 React component for rendering multi-layered composable 2d RMRK EVM NFTs. 
-| [RMRK NFT renderer](https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-2d-renderer)) | 📜 PixiJS (Canvas) renderer for RMRK EVM NFTs. Package is usually used with @rmrk-team/nft-renderer. |
+| [RMRK NFT renderer](https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-2d-renderer)) | 📜 PixiJS (Canvas) renderer for RMRK EVM NFTs. The package is usually used with @rmrk-team/nft-renderer. |
 | [RMRK NFT EVM hooks](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-hooks) | 📜 React hooks for working with RMRK EVM NFTs. |
 | [RMRK EVM utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-evm-utils) | 📜 Typescript utilities for RMRK EVM NFTs. |
 | [RMRK IPFS utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils) | 📜 Utilities for working with NFT metadata and media stored on ipfs. |
