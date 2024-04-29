@@ -9,6 +9,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [EVM template](https://github.com/rmrk-team/evm-template) | 📜 Template to start new project using RMRK implementation on EVM |
 | [Composable PFPs](https://github.com/rmrk-team/me-pfp-example) | 📜 EVM explample of ME Composable PFP collection https://singular.app/me |
 
 **[⬆ Back to top](#index)**
