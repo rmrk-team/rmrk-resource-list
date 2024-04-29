@@ -17,5 +17,6 @@
 | Repository | Description |
 | --- | --- |
 | [NFT renderer](https://github.com/rmrk-team/rmrk-js/tree/main/packages/nft-renderer) | 📜 React component for rendering multi-layered composable 2d RMRK EVM NFTs. |
+| [RMRK NFT EVM hooks](https://github.com/rmrk-team/useful-resource-list/edit/master/README.md) | 📜 React hooks for working with RMRK EVM NFTs. |
 
 **[⬆ Back to Index](#index)**
