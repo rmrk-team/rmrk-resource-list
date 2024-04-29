@@ -11,7 +11,7 @@
 | --- | --- |
 | [NextJS boilerplate](https://github.com/YuriGii/rmrk-app-boilerplate-open) | 📜 Simple Next.js/Wagmi/Rainbowkit/ChakraUI boilerplate with basic rendering of RMRK NFTs |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to top](#index)**
 
 ### React
 
@@ -23,7 +23,7 @@
 | [RMRK EVM utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-evm-utils) | 📜 Typescript utilities for RMRK EVM NFTs. |
 | [RMRK IPFS utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils) | 📜 Utilities for working with NFT metadata and media stored on ipfs. |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to top](#index)**
 
 ### Typescript
 
@@ -31,4 +31,4 @@
 | --- | --- |
 | [RMRK NFT Types](https://github.com/rmrk-team/rmrk-js/tree/main/packages/types) | 📜  Common Typescript types for RMRK EVM NFTs |
 
-**[⬆ Back to Index](#index)**
+**[⬆ Back to top](#index)**
