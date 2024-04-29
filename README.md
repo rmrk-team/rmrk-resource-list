@@ -1,7 +1,8 @@
 ## Index
 
 -   [Front end](#front-end)
--   [React](#React)
+-   [React](#react)
+-   [Typescript](#typescript)
 
 
 ### Front end
@@ -22,5 +23,12 @@
 | [RMRK EVM utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-evm-utils) | 📜 Typescript utilities for RMRK EVM NFTs. |
 | [RMRK IPFS utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils) | 📜 Utilities for working with NFT metadata and media stored on ipfs. |
 
+**[⬆ Back to Index](#index)**
+
+### Typescript
+
+| Repository | Description |
+| --- | --- |
+| [RMRK NFT Types](https://github.com/rmrk-team/rmrk-js/tree/main/packages/types) | 📜  Common Typescript types for RMRK EVM NFTs |
 
 **[⬆ Back to Index](#index)**
