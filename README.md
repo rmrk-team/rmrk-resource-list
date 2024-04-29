@@ -16,7 +16,11 @@
 
 | Repository | Description |
 | --- | --- |
-| [NFT renderer](https://github.com/rmrk-team/rmrk-js/tree/main/packages/nft-renderer) | 📜 React component for rendering multi-layered composable 2d RMRK EVM NFTs. |
-| [RMRK NFT EVM hooks](https://github.com/rmrk-team/useful-resource-list/edit/master/README.md) | 📜 React hooks for working with RMRK EVM NFTs. |
+| [RMRK NFT renderer component](https://github.com/rmrk-team/rmrk-js/tree/main/packages/nft-renderer) | 📜 React component for rendering multi-layered composable 2d RMRK EVM NFTs. 
+| [RMRK NFT renderer]([https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-2d-renderer)) | 📜 PixiJS (Canvas) renderer for RMRK EVM NFTs. Package is usually used with @rmrk-team/nft-renderer. |
+| [RMRK NFT EVM hooks](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-hooks) | 📜 React hooks for working with RMRK EVM NFTs. |
+| [RMRK EVM utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/rmrk-evm-utils) | 📜 Typescript utilities for RMRK EVM NFTs. |
+| [RMRK IPFS utils](https://github.com/rmrk-team/rmrk-js/tree/main/packages/ipfs-utils) | 📜 Utilities for working with NFT metadata and media stored on ipfs. |
+
 
 **[⬆ Back to Index](#index)**
