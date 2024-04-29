@@ -11,6 +11,7 @@
 | --- | --- |
 | [RMRK contract collection](https://github.com/rmrk-team/evm) | 📜 A set of Solidity smart contracts implementing RMRK modular NFTs and compatible extensions |
 | [EVM template](https://github.com/rmrk-team/evm-template) | 📜 Template to start new project using RMRK implementation on EVM |
+| [EVM Wizard APP](https://wizard.rmrk.dev/) | 📜 An interactive smart contract generator based on RMRK Contracts. |
 | ["ME" Composable PFPs](https://github.com/rmrk-team/me-pfp-example) | 📜 EVM example of [ME](https://singular.app/me) Composable PFP collection https://singular.app/me |
 | ["Benance" Composable NFTs](https://github.com/rmrk-team/cz-benance-evm) | EVM example of [BENANCE](https://benance.mintaur.app/) Composable NFT collection https://singular.app/me |
 
