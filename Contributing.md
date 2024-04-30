@@ -7,7 +7,11 @@ Formatting
 Please follow the format given below while making a new entry in the README.
 
 Example entry:
-|   [RMRK](https://github.com/rmrk-team/rmrk-resource-list)  |   📜 List of resources for builders on RMRK NFT standards  |
+
+
+| Repository                                                               | Description |
+|--------------------------------------------------------------------------| --- |
+| [RMRK](https://github.com/rmrk-team/rmrk-resource-list)                  |   📜 List of resources for builders on RMRK NFT standards  |
 
 ## Guidelines
 
