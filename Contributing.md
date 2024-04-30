@@ -11,7 +11,7 @@ Example entry:
 
 | Repository                                                               | Description |
 |--------------------------------------------------------------------------| --- |
-| [RMRK](https://github.com/rmrk-team/rmrk-resource-list)                  |   📜 List of resources for builders on RMRK NFT standards  |
+| [RMRK List](https://github.com/rmrk-team/rmrk-resource-list)                  |   📜 List of resources for builders on RMRK NFT standards  |
 
 ## Guidelines
 
