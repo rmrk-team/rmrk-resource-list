@@ -14,7 +14,5 @@ Example entry:
 | [RMRK List](https://github.com/rmrk-team/rmrk-resource-list)                  |   📜 List of resources for builders on RMRK NFT standards  |
 
 ## Guidelines
-
-- Continue to follow the alphabetical ordering that is in place per section.
 - Each table column should be padded with one space on either side.
 - Add one link per Pull Request.
