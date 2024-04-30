@@ -1,5 +1,5 @@
 # Contributing
-> Thank you for considering to contribute to the RMRK Resource List. We're pleased to see your interest and looking forward to your Pull Request.
+Thank you for considering to contribute to the RMRK Resource List. We're pleased to see your interest and looking forward to your Pull Request.
 
 ----
 
