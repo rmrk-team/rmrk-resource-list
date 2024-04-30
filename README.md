@@ -9,6 +9,7 @@
 
 | Repository | Description |
 | --- | --- |
+| [EVM docs](https://evm.rmrk.app/) | 📜 Guides, explanations, resources, and references to build with RMRK’s Modular NFT EVM Standards |
 | [RMRK contract collection](https://github.com/rmrk-team/evm) | 📜 A set of Solidity smart contracts implementing RMRK modular NFTs and compatible extensions |
 | [EVM template](https://github.com/rmrk-team/evm-template) | 📜 Template to start new project using RMRK implementation on EVM |
 | [EVM Wizard APP](https://wizard.rmrk.dev/) | 📜 An interactive smart contract generator based on RMRK Contracts. |
